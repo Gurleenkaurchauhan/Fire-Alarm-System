@@ -1,0 +1,1 @@
+This project implements a Fire Alarm System using Verilog HDL and is developed in Xilinx Vivado. The system detects fire and smoke using sensor-based logic and triggers an alarm accordingly. The design is optimized for FPGA implementation, ensuring real-time monitoring and response
